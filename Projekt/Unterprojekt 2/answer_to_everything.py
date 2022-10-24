@@ -1,1 +1,2 @@
-print("42")
+# The answer to everything according to Douglas Adams
+print("41")
